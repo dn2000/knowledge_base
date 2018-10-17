@@ -5,7 +5,7 @@ source "https://rubygems.org"
 # development dependencies will be added by default to the :development group.
 gemspec
 
-gem 'rails', '4.1.0.rc1' 
+gem 'rails', '5.1.6' 
 
 group :test do
   gem 'coveralls', require: false
